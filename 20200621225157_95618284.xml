@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<folder>D:/taxi/have_both/</folder>
+		<filename>20200621225157_95618284.jpg</filename>
+		<path>D:/taxi/have_both/20200621225157_95618284.jpg</path>
+		<size>
+			<width>1920</width>
+			<height>1080</height>
+			<depth>3</depth>
+		</size>
+		<object>
+			<name>privatecar</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>592</xmin>
+				<ymin>1</ymin>
+				<xmax>1543</xmax>
+				<ymax>715</ymax>
+			</bndbox>
+		</object>
+	</annotation>
