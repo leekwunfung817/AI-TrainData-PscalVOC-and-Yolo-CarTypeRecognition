@@ -1,0 +1,1 @@
+python "../../YoloFileTxtToXml.py" > YoloFileTxtToXml.log
