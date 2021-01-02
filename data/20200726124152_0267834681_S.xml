@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<folder></folder>
+		<filename>20200726124152_0267834681_S.jpg</filename>
+		<source>
+			<database>Unknown</database>
+		</source>
+		<path>20200726124152_0267834681_S.jpg</path>
+		<size>
+			<width>704</width>
+			<height>576</height>
+			<depth>3</depth>
+		</size>
+		<object>
+			<name>privatecar</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>1</xmin>
+				<ymin>6</ymin>
+				<xmax>507</xmax>
+				<ymax>474</ymax>
+			</bndbox>
+		</object>
+	</annotation>

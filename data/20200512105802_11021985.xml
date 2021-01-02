@@ -1,0 +1,38 @@
+<annotation>
+	<folder>data</folder>
+	<filename>20200512105802_11021985.jpg</filename>
+	<path>D:\CPOS AI\OD_CTR\data\20200512105802_11021985.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>704</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>taxi_mark</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>348</xmin>
+			<ymin>259</ymin>
+			<xmax>411</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>taxi</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>323</xmin>
+			<ymin>1</ymin>
+			<xmax>704</xmax>
+			<ymax>443</ymax>
+		</bndbox>
+	</object>
+</annotation>

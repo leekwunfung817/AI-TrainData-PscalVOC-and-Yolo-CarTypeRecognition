@@ -1,0 +1,38 @@
+<annotation>
+	<folder>pendding</folder>
+	<filename>20200814104932_06068298.jpg</filename>
+	<path>D:\CPOS AI\OD_CTR\pendding\20200814104932_06068298.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>704</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>taxi_mark</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>136</xmin>
+			<ymin>544</ymin>
+			<xmax>190</xmax>
+			<ymax>576</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>taxi</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>19</ymin>
+			<xmax>470</xmax>
+			<ymax>576</ymax>
+		</bndbox>
+	</object>
+</annotation>

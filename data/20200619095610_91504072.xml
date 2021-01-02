@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>20200619095610_91504072.jpg</filename>
+	<path>D:\CPOS AI\OD_CTR\data\20200619095610_91504072.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>704</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>privatecar</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>1</ymin>
+			<xmax>528</xmax>
+			<ymax>377</ymax>
+		</bndbox>
+	</object>
+</annotation>
