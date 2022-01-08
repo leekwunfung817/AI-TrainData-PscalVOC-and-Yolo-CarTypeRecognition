@@ -1,7 +1,0 @@
-classes= 8
-train  = train.txt
-valid  = valid.txt
-names = data/predefined_classes.txt
-backup = backup
-eval=cpos
-
