@@ -1,0 +1,8 @@
+taxi_mark
+taxi
+truck
+privatecar
+vehicle_s
+vehicle_m
+motorcycle
+van_s
