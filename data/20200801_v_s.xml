@@ -1,7 +1,7 @@
 <annotation>
-	<folder>temp</folder>
+	<folder>data</folder>
 	<filename>20200801_v_s.jpg</filename>
-	<path>20200801_v_s.jpg</path>
+	<path>C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-CarTypeRecognition\data\20200801_v_s.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>vehicle_s</name>
+		<name>vehicle_m</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

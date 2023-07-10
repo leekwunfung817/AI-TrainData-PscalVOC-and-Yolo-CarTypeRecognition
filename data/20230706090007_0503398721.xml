@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_20230710</folder>
+	<filename>20230706090007_0503398721.jpg</filename>
+	<path>C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-CarTypeRecognition\data_20230710\20230706090007_0503398721.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>1</ymin>
+			<xmax>1907</xmax>
+			<ymax>1077</ymax>
+		</bndbox>
+	</object>
+</annotation>

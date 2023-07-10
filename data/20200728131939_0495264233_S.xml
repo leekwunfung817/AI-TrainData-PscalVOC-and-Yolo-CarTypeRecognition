@@ -1,7 +1,7 @@
 <annotation>
-	<folder>pendding_17_20200902</folder>
+	<folder>data</folder>
 	<filename>20200728131939_0495264233_S.jpg</filename>
-	<path>D:\CPOS AI\OD_CTR\pendding_17_20200902\20200728131939_0495264233_S.jpg</path>
+	<path>C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-CarTypeRecognition\data\20200728131939_0495264233_S.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>van_s</name>
+		<name>vehicle_m</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
