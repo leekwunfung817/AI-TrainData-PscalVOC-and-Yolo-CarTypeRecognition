@@ -1,8 +1,11 @@
+motorcycle
 taxi_mark
 taxi
-truck
 privatecar
-vehicle_s
-vehicle_m
-motorcycle
 van_s
+truck_small
+truck_medium
+truck_large
+dump_truck
+rubbish_trunk
+tractor

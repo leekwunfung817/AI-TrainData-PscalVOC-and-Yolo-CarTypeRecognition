@@ -12,7 +12,7 @@
 			<depth>3</depth>
 		</size>
 		<object>
-			<name>vehicle_s</name>
+			<name>truck_small</name>
 			<pose>Unspecified</pose>
 			<truncated>0</truncated>
 			<difficult>0</difficult>
